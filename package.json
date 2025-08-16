@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/essential-reads-top",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a essential-reads-top",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/essential-reads-top.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/reads-top-option-trading-books/"
+    },
+    "homepage": "https://transpero.net/reads-top-option-trading-books/"
+}
